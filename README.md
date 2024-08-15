@@ -1,1 +1,1 @@
-This Project is run on local system
+This Project is running on local system.
